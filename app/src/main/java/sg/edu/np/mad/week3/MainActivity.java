@@ -63,6 +63,4 @@ public class MainActivity extends AppCompatActivity {
         super.onStop();
         releasePlayer();
     }
-
-
 }
